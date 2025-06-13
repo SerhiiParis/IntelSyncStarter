@@ -1,0 +1,38 @@
+# Build results
+bin/
+obj/
+
+# Rider project files
+.idea/
+*.sln.DotSettings*
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test results
+TestResults/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Others
+_ReSharper*/
+
+# Ignore local secrets
+secrets.json
+

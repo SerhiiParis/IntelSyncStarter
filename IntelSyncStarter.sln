@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{52B918C9-1B43-41A1-BB0F-A35AB300CB68}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelSyncStarter", "IntelSyncStarter\IntelSyncStarter.csproj", "{E3411253-96D0-436D-B5CA-9B09CEFF5FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelSyncStarter.Tests", "IntelSyncStarter.Tests\IntelSyncStarter.Tests.csproj", "{18E8AE5C-26D0-4532-BC18-766B5BDC2131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3411253-96D0-436D-B5CA-9B09CEFF5FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3411253-96D0-436D-B5CA-9B09CEFF5FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3411253-96D0-436D-B5CA-9B09CEFF5FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3411253-96D0-436D-B5CA-9B09CEFF5FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E8AE5C-26D0-4532-BC18-766B5BDC2131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E8AE5C-26D0-4532-BC18-766B5BDC2131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E8AE5C-26D0-4532-BC18-766B5BDC2131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E8AE5C-26D0-4532-BC18-766B5BDC2131}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
